@@ -1,0 +1,718 @@
+"from_matched_field","to_matched_field","n_male","n_female"
+"anthropology","archaeology",127,106
+"anthropology","art history",3,9
+"anthropology","biochemistry",2,1
+"anthropology","chemistry",4,6
+"anthropology","classics",2,3
+"anthropology","communications",23,28
+"anthropology","computer science",9,2
+"anthropology","earth sciences",6,7
+"anthropology","economics",24,18
+"anthropology","education",69,110
+"anthropology","engineering",7,12
+"anthropology","english literature",8,12
+"anthropology","evolutionary biology",8,13
+"anthropology","history",74,74
+"anthropology","linguistics",19,12
+"anthropology","mathematics",5,3
+"anthropology","middle eastern studies",3,4
+"anthropology","molecular biology",0,3
+"anthropology","music",3,0
+"anthropology","neuroscience",3,4
+"anthropology","philosophy",39,21
+"anthropology","physics",8,1
+"anthropology","political science",38,40
+"anthropology","psychology",48,43
+"anthropology","sociology",96,95
+"anthropology","spanish literature",2,2
+"anthropology","statistics",5,2
+"archaeology","anthropology",97,80
+"archaeology","art history",6,12
+"archaeology","biochemistry",0,1
+"archaeology","chemistry",5,0
+"archaeology","classics",18,18
+"archaeology","communications",2,5
+"archaeology","computer science",8,4
+"archaeology","earth sciences",10,4
+"archaeology","economics",2,4
+"archaeology","education",10,25
+"archaeology","engineering",5,4
+"archaeology","english literature",0,5
+"archaeology","evolutionary biology",0,1
+"archaeology","history",105,82
+"archaeology","linguistics",3,0
+"archaeology","mathematics",1,1
+"archaeology","middle eastern studies",1,1
+"archaeology","music",0,1
+"archaeology","neuroscience",1,0
+"archaeology","philosophy",5,3
+"archaeology","physics",4,3
+"archaeology","political science",2,2
+"archaeology","psychology",1,0
+"archaeology","sociology",2,0
+"art history","anthropology",2,16
+"art history","archaeology",6,17
+"art history","classics",5,3
+"art history","communications",8,23
+"art history","comparative literature",0,2
+"art history","computer science",1,3
+"art history","earth sciences",0,4
+"art history","economics",2,4
+"art history","education",24,36
+"art history","engineering",3,3
+"art history","english literature",8,10
+"art history","history",56,66
+"art history","linguistics",3,1
+"art history","mathematics",0,1
+"art history","middle eastern studies",1,3
+"art history","music",5,2
+"art history","neuroscience",1,0
+"art history","philosophy",15,10
+"art history","political science",0,1
+"art history","psychology",0,7
+"art history","sociology",2,5
+"art history","spanish literature",0,2
+"art history","statistics",0,1
+"astronomy","computer science",1,0
+"astronomy","earth sciences",0,1
+"astronomy","engineering",0,1
+"astronomy","mathematics",2,1
+"astronomy","neuroscience",1,0
+"astronomy","physics",5,1
+"biochemistry","anthropology",2,2
+"biochemistry","archaeology",0,2
+"biochemistry","art history",0,1
+"biochemistry","chemistry",524,255
+"biochemistry","communications",7,5
+"biochemistry","computer science",94,32
+"biochemistry","earth sciences",23,13
+"biochemistry","economics",10,9
+"biochemistry","education",46,34
+"biochemistry","engineering",207,67
+"biochemistry","english literature",1,0
+"biochemistry","evolutionary biology",12,1
+"biochemistry","history",2,0
+"biochemistry","mathematics",16,6
+"biochemistry","molecular biology",296,121
+"biochemistry","neuroscience",111,77
+"biochemistry","philosophy",4,0
+"biochemistry","physics",108,57
+"biochemistry","political science",1,0
+"biochemistry","psychology",10,11
+"biochemistry","sociology",15,12
+"biochemistry","statistics",18,7
+"chemistry","anthropology",5,5
+"chemistry","archaeology",8,4
+"chemistry","art history",0,4
+"chemistry","biochemistry",692,284
+"chemistry","classics",1,0
+"chemistry","communications",14,12
+"chemistry","computer science",198,42
+"chemistry","earth sciences",165,87
+"chemistry","economics",44,17
+"chemistry","education",247,143
+"chemistry","engineering",2723,900
+"chemistry","english literature",7,2
+"chemistry","evolutionary biology",6,9
+"chemistry","history",10,6
+"chemistry","linguistics",3,3
+"chemistry","mathematics",120,63
+"chemistry","middle eastern studies",1,0
+"chemistry","molecular biology",158,83
+"chemistry","music",5,4
+"chemistry","neuroscience",70,29
+"chemistry","philosophy",26,6
+"chemistry","physics",1024,317
+"chemistry","political science",7,0
+"chemistry","psychology",22,15
+"chemistry","sociology",6,5
+"chemistry","spanish literature",1,2
+"chemistry","statistics",19,7
+"classics","anthropology",8,8
+"classics","archaeology",14,17
+"classics","art history",6,4
+"classics","chemistry",1,1
+"classics","communications",4,3
+"classics","comparative literature",5,4
+"classics","computer science",5,1
+"classics","earth sciences",1,1
+"classics","economics",1,0
+"classics","education",22,34
+"classics","engineering",4,1
+"classics","english literature",7,10
+"classics","history",51,42
+"classics","linguistics",23,29
+"classics","mathematics",3,0
+"classics","middle eastern studies",2,1
+"classics","music",1,1
+"classics","neuroscience",1,1
+"classics","philosophy",22,18
+"classics","physics",0,1
+"classics","political science",3,3
+"classics","psychology",3,2
+"classics","sociology",2,1
+"classics","spanish literature",16,8
+"communications","anthropology",22,29
+"communications","archaeology",0,3
+"communications","art history",12,10
+"communications","biochemistry",1,0
+"communications","chemistry",2,6
+"communications","classics",5,3
+"communications","comparative literature",5,2
+"communications","computer science",76,25
+"communications","earth sciences",1,4
+"communications","economics",66,57
+"communications","education",213,291
+"communications","engineering",245,59
+"communications","english literature",69,64
+"communications","evolutionary biology",1,1
+"communications","history",40,50
+"communications","linguistics",33,48
+"communications","mathematics",13,3
+"communications","middle eastern studies",2,2
+"communications","molecular biology",1,1
+"communications","music",5,2
+"communications","neuroscience",8,6
+"communications","philosophy",55,51
+"communications","physics",20,4
+"communications","political science",68,55
+"communications","psychology",66,86
+"communications","sociology",50,74
+"communications","spanish literature",8,13
+"communications","statistics",4,3
+"comparative literature","anthropology",3,0
+"comparative literature","art history",0,4
+"comparative literature","classics",1,1
+"comparative literature","communications",6,10
+"comparative literature","computer science",0,1
+"comparative literature","economics",1,1
+"comparative literature","education",8,8
+"comparative literature","english literature",35,42
+"comparative literature","history",3,7
+"comparative literature","linguistics",1,5
+"comparative literature","philosophy",4,3
+"comparative literature","physics",1,0
+"comparative literature","political science",1,1
+"comparative literature","psychology",1,2
+"comparative literature","sociology",4,2
+"comparative literature","spanish literature",11,8
+"computer science","anthropology",7,2
+"computer science","archaeology",3,1
+"computer science","astronomy",1,0
+"computer science","biochemistry",55,18
+"computer science","chemistry",96,20
+"computer science","classics",2,1
+"computer science","communications",104,27
+"computer science","earth sciences",40,3
+"computer science","economics",119,35
+"computer science","education",241,138
+"computer science","engineering",1894,322
+"computer science","english literature",16,6
+"computer science","evolutionary biology",12,4
+"computer science","history",11,6
+"computer science","linguistics",36,13
+"computer science","mathematics",462,82
+"computer science","molecular biology",30,6
+"computer science","music",5,0
+"computer science","neuroscience",56,10
+"computer science","philosophy",36,6
+"computer science","physics",177,37
+"computer science","political science",17,4
+"computer science","psychology",105,35
+"computer science","sociology",15,6
+"computer science","spanish literature",1,0
+"computer science","statistics",92,21
+"earth sciences","anthropology",2,3
+"earth sciences","archaeology",5,6
+"earth sciences","biochemistry",20,11
+"earth sciences","chemistry",88,46
+"earth sciences","communications",3,10
+"earth sciences","computer science",35,5
+"earth sciences","economics",19,6
+"earth sciences","education",33,26
+"earth sciences","engineering",262,87
+"earth sciences","english literature",2,1
+"earth sciences","evolutionary biology",8,6
+"earth sciences","history",4,5
+"earth sciences","mathematics",17,18
+"earth sciences","molecular biology",2,2
+"earth sciences","neuroscience",0,1
+"earth sciences","philosophy",3,0
+"earth sciences","physics",251,97
+"earth sciences","political science",0,5
+"earth sciences","psychology",2,0
+"earth sciences","sociology",3,2
+"earth sciences","statistics",2,2
+"economics","anthropology",18,10
+"economics","archaeology",3,3
+"economics","art history",3,3
+"economics","astronomy",1,0
+"economics","biochemistry",3,4
+"economics","chemistry",17,9
+"economics","classics",1,0
+"economics","communications",53,64
+"economics","comparative literature",0,1
+"economics","computer science",118,41
+"economics","earth sciences",16,9
+"economics","education",308,228
+"economics","engineering",370,119
+"economics","english literature",17,13
+"economics","evolutionary biology",2,3
+"economics","history",81,43
+"economics","linguistics",5,10
+"economics","mathematics",127,37
+"economics","middle eastern studies",13,3
+"economics","molecular biology",1,0
+"economics","music",12,5
+"economics","neuroscience",2,2
+"economics","philosophy",68,32
+"economics","physics",30,3
+"economics","political science",210,117
+"economics","psychology",73,52
+"economics","sociology",132,90
+"economics","spanish literature",2,2
+"economics","statistics",193,86
+"education","anthropology",39,59
+"education","archaeology",8,11
+"education","art history",11,22
+"education","biochemistry",32,13
+"education","chemistry",159,75
+"education","classics",6,12
+"education","communications",189,197
+"education","comparative literature",5,8
+"education","computer science",186,92
+"education","earth sciences",24,19
+"education","economics",189,136
+"education","engineering",513,161
+"education","english literature",243,297
+"education","evolutionary biology",3,4
+"education","history",191,150
+"education","linguistics",119,120
+"education","mathematics",214,134
+"education","middle eastern studies",3,2
+"education","molecular biology",10,3
+"education","music",16,12
+"education","neuroscience",15,10
+"education","philosophy",198,122
+"education","physics",143,38
+"education","political science",83,50
+"education","psychology",442,656
+"education","sociology",122,115
+"education","spanish literature",32,24
+"education","statistics",29,15
+"engineering","anthropology",16,8
+"engineering","archaeology",10,3
+"engineering","art history",6,1
+"engineering","astronomy",1,0
+"engineering","biochemistry",121,47
+"engineering","chemistry",1734,497
+"engineering","classics",3,1
+"engineering","communications",377,76
+"engineering","computer science",2742,453
+"engineering","earth sciences",306,90
+"engineering","economics",650,159
+"engineering","education",628,222
+"engineering","english literature",27,17
+"engineering","evolutionary biology",12,4
+"engineering","history",45,10
+"engineering","linguistics",16,8
+"engineering","mathematics",869,150
+"engineering","middle eastern studies",3,0
+"engineering","molecular biology",66,37
+"engineering","music",12,2
+"engineering","neuroscience",144,38
+"engineering","philosophy",66,12
+"engineering","physics",2221,360
+"engineering","political science",39,9
+"engineering","psychology",149,42
+"engineering","sociology",26,20
+"engineering","spanish literature",6,3
+"engineering","statistics",157,33
+"english literature","anthropology",13,15
+"english literature","archaeology",0,2
+"english literature","art history",10,17
+"english literature","biochemistry",2,2
+"english literature","chemistry",4,4
+"english literature","classics",12,11
+"english literature","communications",145,161
+"english literature","comparative literature",33,40
+"english literature","computer science",38,15
+"english literature","earth sciences",4,3
+"english literature","economics",27,32
+"english literature","education",451,536
+"english literature","engineering",32,19
+"english literature","evolutionary biology",0,2
+"english literature","history",59,74
+"english literature","linguistics",248,243
+"english literature","mathematics",10,8
+"english literature","middle eastern studies",5,3
+"english literature","molecular biology",1,0
+"english literature","music",4,6
+"english literature","neuroscience",5,3
+"english literature","philosophy",35,28
+"english literature","physics",11,6
+"english literature","political science",32,26
+"english literature","psychology",33,70
+"english literature","sociology",13,28
+"english literature","spanish literature",9,28
+"english literature","statistics",6,2
+"evolutionary biology","anthropology",2,9
+"evolutionary biology","archaeology",0,2
+"evolutionary biology","biochemistry",0,1
+"evolutionary biology","chemistry",2,0
+"evolutionary biology","communications",0,1
+"evolutionary biology","computer science",7,4
+"evolutionary biology","earth sciences",8,7
+"evolutionary biology","economics",2,0
+"evolutionary biology","education",3,8
+"evolutionary biology","engineering",7,7
+"evolutionary biology","history",0,1
+"evolutionary biology","linguistics",1,0
+"evolutionary biology","mathematics",8,2
+"evolutionary biology","molecular biology",8,2
+"evolutionary biology","neuroscience",1,4
+"evolutionary biology","philosophy",3,1
+"evolutionary biology","physics",2,2
+"evolutionary biology","psychology",3,5
+"evolutionary biology","sociology",1,1
+"evolutionary biology","spanish literature",1,0
+"evolutionary biology","statistics",5,0
+"history","anthropology",74,72
+"history","archaeology",167,99
+"history","art history",61,55
+"history","chemistry",6,4
+"history","classics",33,25
+"history","communications",77,78
+"history","comparative literature",7,3
+"history","computer science",28,14
+"history","earth sciences",8,4
+"history","economics",118,54
+"history","education",413,336
+"history","engineering",37,10
+"history","english literature",56,53
+"history","evolutionary biology",2,2
+"history","linguistics",24,25
+"history","mathematics",9,9
+"history","middle eastern studies",21,7
+"history","molecular biology",1,1
+"history","music",9,10
+"history","neuroscience",2,1
+"history","philosophy",140,63
+"history","physics",11,2
+"history","political science",231,103
+"history","psychology",28,36
+"history","sociology",88,77
+"history","spanish literature",15,11
+"history","statistics",6,2
+"linguistics","anthropology",24,16
+"linguistics","archaeology",3,1
+"linguistics","art history",0,1
+"linguistics","chemistry",0,1
+"linguistics","classics",18,18
+"linguistics","communications",62,80
+"linguistics","comparative literature",2,8
+"linguistics","computer science",37,29
+"linguistics","earth sciences",0,1
+"linguistics","economics",6,7
+"linguistics","education",141,176
+"linguistics","engineering",9,14
+"linguistics","english literature",213,176
+"linguistics","history",9,10
+"linguistics","mathematics",4,2
+"linguistics","middle eastern studies",10,2
+"linguistics","molecular biology",0,1
+"linguistics","music",2,0
+"linguistics","neuroscience",5,6
+"linguistics","philosophy",27,18
+"linguistics","physics",1,1
+"linguistics","political science",4,5
+"linguistics","psychology",54,71
+"linguistics","sociology",7,8
+"linguistics","spanish literature",37,23
+"linguistics","statistics",2,4
+"mathematics","anthropology",3,4
+"mathematics","archaeology",4,2
+"mathematics","art history",0,2
+"mathematics","astronomy",1,1
+"mathematics","biochemistry",21,12
+"mathematics","chemistry",117,46
+"mathematics","classics",2,0
+"mathematics","communications",22,11
+"mathematics","computer science",1113,263
+"mathematics","earth sciences",68,30
+"mathematics","economics",394,121
+"mathematics","education",379,262
+"mathematics","engineering",1199,297
+"mathematics","english literature",6,6
+"mathematics","evolutionary biology",15,6
+"mathematics","history",11,6
+"mathematics","linguistics",17,9
+"mathematics","middle eastern studies",1,0
+"mathematics","molecular biology",13,7
+"mathematics","music",3,1
+"mathematics","neuroscience",29,18
+"mathematics","philosophy",59,12
+"mathematics","physics",729,129
+"mathematics","political science",24,1
+"mathematics","psychology",56,27
+"mathematics","sociology",16,13
+"mathematics","spanish literature",1,0
+"mathematics","statistics",661,281
+"middle eastern studies","anthropology",1,3
+"middle eastern studies","archaeology",0,1
+"middle eastern studies","art history",1,1
+"middle eastern studies","chemistry",1,0
+"middle eastern studies","classics",2,2
+"middle eastern studies","communications",0,1
+"middle eastern studies","comparative literature",0,1
+"middle eastern studies","computer science",0,1
+"middle eastern studies","earth sciences",2,0
+"middle eastern studies","economics",2,1
+"middle eastern studies","education",3,2
+"middle eastern studies","engineering",1,0
+"middle eastern studies","english literature",3,3
+"middle eastern studies","history",14,5
+"middle eastern studies","linguistics",3,1
+"middle eastern studies","philosophy",4,0
+"middle eastern studies","physics",0,1
+"middle eastern studies","political science",7,8
+"middle eastern studies","psychology",1,1
+"middle eastern studies","sociology",6,4
+"molecular biology","anthropology",1,2
+"molecular biology","biochemistry",168,74
+"molecular biology","chemistry",73,34
+"molecular biology","communications",3,4
+"molecular biology","computer science",45,17
+"molecular biology","economics",1,2
+"molecular biology","education",11,6
+"molecular biology","engineering",72,33
+"molecular biology","evolutionary biology",11,4
+"molecular biology","history",0,1
+"molecular biology","linguistics",1,0
+"molecular biology","mathematics",6,0
+"molecular biology","neuroscience",68,48
+"molecular biology","philosophy",1,1
+"molecular biology","physics",39,12
+"molecular biology","political science",2,0
+"molecular biology","psychology",4,5
+"molecular biology","sociology",1,2
+"molecular biology","statistics",7,4
+"music","anthropology",1,1
+"music","art history",3,2
+"music","chemistry",3,1
+"music","communications",2,3
+"music","computer science",3,1
+"music","economics",9,2
+"music","education",22,8
+"music","engineering",5,0
+"music","english literature",4,2
+"music","history",8,14
+"music","linguistics",0,2
+"music","mathematics",2,0
+"music","philosophy",4,2
+"music","physics",3,2
+"music","political science",1,0
+"music","psychology",6,9
+"music","sociology",0,3
+"music","spanish literature",0,1
+"neuroscience","anthropology",1,1
+"neuroscience","art history",0,1
+"neuroscience","biochemistry",23,12
+"neuroscience","chemistry",13,4
+"neuroscience","communications",2,7
+"neuroscience","computer science",19,5
+"neuroscience","earth sciences",1,1
+"neuroscience","economics",3,2
+"neuroscience","education",16,13
+"neuroscience","engineering",56,15
+"neuroscience","evolutionary biology",2,1
+"neuroscience","history",1,0
+"neuroscience","linguistics",2,3
+"neuroscience","mathematics",8,1
+"neuroscience","molecular biology",19,19
+"neuroscience","music",1,1
+"neuroscience","philosophy",5,7
+"neuroscience","physics",23,9
+"neuroscience","psychology",246,222
+"neuroscience","sociology",12,7
+"neuroscience","statistics",8,5
+"philosophy","anthropology",50,39
+"philosophy","archaeology",14,6
+"philosophy","art history",13,23
+"philosophy","biochemistry",4,2
+"philosophy","chemistry",14,6
+"philosophy","classics",22,12
+"philosophy","communications",89,73
+"philosophy","comparative literature",7,6
+"philosophy","computer science",64,11
+"philosophy","earth sciences",4,1
+"philosophy","economics",86,40
+"philosophy","education",386,242
+"philosophy","engineering",52,15
+"philosophy","english literature",51,24
+"philosophy","evolutionary biology",2,0
+"philosophy","history",175,97
+"philosophy","linguistics",52,41
+"philosophy","mathematics",44,10
+"philosophy","middle eastern studies",6,2
+"philosophy","molecular biology",3,0
+"philosophy","music",5,5
+"philosophy","neuroscience",22,10
+"philosophy","physics",47,6
+"philosophy","political science",141,70
+"philosophy","psychology",168,95
+"philosophy","sociology",90,48
+"philosophy","spanish literature",23,13
+"philosophy","statistics",7,1
+"physics","anthropology",9,3
+"physics","archaeology",15,6
+"physics","art history",2,0
+"physics","astronomy",4,1
+"physics","biochemistry",125,43
+"physics","chemistry",1164,297
+"physics","classics",5,0
+"physics","communications",50,6
+"physics","computer science",568,85
+"physics","earth sciences",515,135
+"physics","economics",109,27
+"physics","education",283,91
+"physics","engineering",3711,625
+"physics","english literature",4,4
+"physics","evolutionary biology",11,5
+"physics","history",23,7
+"physics","linguistics",5,7
+"physics","mathematics",990,142
+"physics","middle eastern studies",1,1
+"physics","molecular biology",61,12
+"physics","music",7,2
+"physics","neuroscience",113,37
+"physics","philosophy",79,10
+"physics","political science",8,5
+"physics","psychology",77,22
+"physics","sociology",20,4
+"physics","spanish literature",4,1
+"physics","statistics",71,16
+"political science","anthropology",37,33
+"political science","archaeology",2,1
+"political science","art history",0,3
+"political science","biochemistry",2,0
+"political science","chemistry",6,2
+"political science","classics",1,0
+"political science","communications",78,79
+"political science","comparative literature",2,1
+"political science","computer science",19,5
+"political science","earth sciences",1,1
+"political science","economics",185,104
+"political science","education",150,95
+"political science","engineering",14,6
+"political science","english literature",26,10
+"political science","evolutionary biology",2,0
+"political science","history",147,63
+"political science","linguistics",5,5
+"political science","mathematics",10,5
+"political science","middle eastern studies",16,9
+"political science","music",1,2
+"political science","neuroscience",0,1
+"political science","philosophy",111,35
+"political science","physics",4,0
+"political science","psychology",34,40
+"political science","sociology",180,128
+"political science","spanish literature",0,2
+"political science","statistics",18,9
+"psychology","anthropology",43,52
+"psychology","archaeology",2,1
+"psychology","art history",2,2
+"psychology","biochemistry",8,6
+"psychology","chemistry",14,10
+"psychology","classics",1,4
+"psychology","communications",110,132
+"psychology","comparative literature",0,2
+"psychology","computer science",104,42
+"psychology","earth sciences",4,2
+"psychology","economics",96,66
+"psychology","education",753,1177
+"psychology","engineering",103,57
+"psychology","english literature",24,35
+"psychology","evolutionary biology",1,7
+"psychology","history",31,23
+"psychology","linguistics",52,44
+"psychology","mathematics",16,20
+"psychology","middle eastern studies",1,0
+"psychology","molecular biology",4,3
+"psychology","music",5,2
+"psychology","neuroscience",457,434
+"psychology","philosophy",142,74
+"psychology","physics",16,11
+"psychology","political science",46,40
+"psychology","sociology",129,148
+"psychology","spanish literature",3,6
+"psychology","statistics",70,44
+"sociology","anthropology",80,81
+"sociology","archaeology",0,1
+"sociology","art history",0,1
+"sociology","biochemistry",3,1
+"sociology","chemistry",3,6
+"sociology","classics",0,1
+"sociology","communications",84,59
+"sociology","comparative literature",1,0
+"sociology","computer science",9,5
+"sociology","earth sciences",3,2
+"sociology","economics",113,77
+"sociology","education",246,260
+"sociology","engineering",18,8
+"sociology","english literature",6,6
+"sociology","evolutionary biology",0,1
+"sociology","history",59,42
+"sociology","linguistics",8,6
+"sociology","mathematics",9,4
+"sociology","middle eastern studies",4,3
+"sociology","molecular biology",0,1
+"sociology","music",1,3
+"sociology","neuroscience",11,7
+"sociology","philosophy",55,35
+"sociology","physics",3,4
+"sociology","political science",147,132
+"sociology","psychology",98,84
+"sociology","spanish literature",3,1
+"sociology","statistics",21,30
+"spanish literature","anthropology",3,5
+"spanish literature","art history",1,3
+"spanish literature","chemistry",1,3
+"spanish literature","classics",17,12
+"spanish literature","communications",5,17
+"spanish literature","comparative literature",3,4
+"spanish literature","earth sciences",0,4
+"spanish literature","economics",1,6
+"spanish literature","education",36,44
+"spanish literature","engineering",4,3
+"spanish literature","english literature",13,22
+"spanish literature","evolutionary biology",1,0
+"spanish literature","history",8,13
+"spanish literature","linguistics",38,40
+"spanish literature","mathematics",0,1
+"spanish literature","philosophy",10,7
+"spanish literature","physics",1,2
+"spanish literature","political science",2,7
+"spanish literature","psychology",9,12
+"spanish literature","sociology",4,4
+"statistics","anthropology",3,1
+"statistics","biochemistry",6,1
+"statistics","chemistry",3,6
+"statistics","communications",3,4
+"statistics","computer science",87,28
+"statistics","earth sciences",4,2
+"statistics","economics",189,73
+"statistics","education",38,32
+"statistics","engineering",116,38
+"statistics","english literature",0,1
+"statistics","evolutionary biology",7,1
+"statistics","history",2,2
+"statistics","linguistics",2,0
+"statistics","mathematics",283,96
+"statistics","molecular biology",1,0
+"statistics","neuroscience",10,5
+"statistics","philosophy",4,2
+"statistics","physics",23,3
+"statistics","political science",11,9
+"statistics","psychology",45,32
+"statistics","sociology",33,16

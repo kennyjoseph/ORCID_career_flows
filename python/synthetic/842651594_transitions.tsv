@@ -1,0 +1,901 @@
+from_matched_field	to_matched_field	n_male	n_female
+anthropology	anthropology	105	25
+anthropology	archaeology	4	21
+anthropology	art history	55	19
+anthropology	astronomy	31	25
+anthropology	biochemistry	4	12
+anthropology	chemistry	26	53
+anthropology	classics	1	2
+anthropology	communications	6	2
+anthropology	comparative literature	1	5
+anthropology	computer science	5	4
+anthropology	earth sciences	102	28
+anthropology	economics	81	72
+anthropology	education	68	45
+anthropology	engineering	88	29
+anthropology	english literature	70	35
+anthropology	evolutionary biology	0	0
+anthropology	history	41	6
+anthropology	linguistics	20	12
+anthropology	mathematics	66	30
+anthropology	middle eastern studies	132	29
+anthropology	molecular biology	13	6
+anthropology	music	49	36
+anthropology	neuroscience	36	33
+anthropology	philosophy	140	81
+anthropology	physics	351	536
+anthropology	political science	22	71
+anthropology	psychology	13	1
+anthropology	sociology	249	129
+anthropology	spanish literature	11	11
+anthropology	statistics	33	3
+archaeology	anthropology	41	27
+archaeology	archaeology	27	6
+archaeology	art history	38	1
+archaeology	astronomy	31	9
+archaeology	biochemistry	27	4
+archaeology	chemistry	0	5
+archaeology	classics	259	40
+archaeology	communications	116	5
+archaeology	comparative literature	11	0
+archaeology	computer science	59	3
+archaeology	earth sciences	99	51
+archaeology	economics	19	3
+archaeology	education	26	21
+archaeology	engineering	277	23
+archaeology	english literature	1	0
+archaeology	evolutionary biology	4	0
+archaeology	history	70	8
+archaeology	linguistics	4	0
+archaeology	mathematics	56	21
+archaeology	middle eastern studies	34	6
+archaeology	molecular biology	2	0
+archaeology	music	11	0
+archaeology	neuroscience	473	42
+archaeology	philosophy	21	26
+archaeology	physics	21	10
+archaeology	political science	19	7
+archaeology	psychology	142	1
+archaeology	sociology	74	28
+archaeology	spanish literature	69	38
+archaeology	statistics	38	7
+art history	anthropology	280	416
+art history	archaeology	47	69
+art history	art history	20	21
+art history	astronomy	5	0
+art history	biochemistry	15	8
+art history	chemistry	80	44
+art history	classics	99	26
+art history	communications	3	0
+art history	comparative literature	0	10
+art history	computer science	98	17
+art history	earth sciences	10	15
+art history	economics	157	73
+art history	education	1	23
+art history	engineering	38	44
+art history	english literature	45	28
+art history	evolutionary biology	108	18
+art history	history	7	7
+art history	linguistics	188	18
+art history	mathematics	39	81
+art history	middle eastern studies	9	11
+art history	molecular biology	15	4
+art history	music	83	58
+art history	neuroscience	37	103
+art history	philosophy	1	3
+art history	physics	21	78
+art history	political science	8	5
+art history	psychology	381	162
+art history	sociology	5	3
+art history	spanish literature	418	52
+art history	statistics	6	61
+astronomy	anthropology	123	127
+astronomy	archaeology	25	6
+astronomy	art history	37	10
+astronomy	astronomy	148	166
+astronomy	biochemistry	7	1
+astronomy	chemistry	17	2
+astronomy	classics	42	20
+astronomy	communications	20	0
+astronomy	comparative literature	9	14
+astronomy	computer science	43	8
+astronomy	earth sciences	61	13
+astronomy	economics	94	3
+astronomy	education	5	0
+astronomy	engineering	2	0
+astronomy	english literature	503	265
+astronomy	evolutionary biology	20	1
+astronomy	history	35	10
+astronomy	linguistics	7	2
+astronomy	mathematics	37	17
+astronomy	middle eastern studies	41	4
+astronomy	molecular biology	153	11
+astronomy	music	143	50
+astronomy	neuroscience	47	14
+astronomy	philosophy	47	1
+astronomy	physics	44	12
+astronomy	political science	466	43
+astronomy	psychology	17	1
+astronomy	sociology	169	5
+astronomy	spanish literature	254	46
+astronomy	statistics	31	1
+biochemistry	anthropology	8	40
+biochemistry	archaeology	36	21
+biochemistry	art history	0	0
+biochemistry	astronomy	4	10
+biochemistry	biochemistry	168	121
+biochemistry	chemistry	109	98
+biochemistry	classics	21	8
+biochemistry	communications	368	10
+biochemistry	comparative literature	174	48
+biochemistry	computer science	11	5
+biochemistry	earth sciences	58	18
+biochemistry	economics	51	11
+biochemistry	education	1	6
+biochemistry	engineering	6	3
+biochemistry	english literature	13	11
+biochemistry	evolutionary biology	57	12
+biochemistry	history	26	5
+biochemistry	linguistics	70	31
+biochemistry	mathematics	26	23
+biochemistry	middle eastern studies	132	98
+biochemistry	molecular biology	5	2
+biochemistry	music	79	201
+biochemistry	neuroscience	45	70
+biochemistry	philosophy	54	51
+biochemistry	physics	1	4
+biochemistry	political science	210	79
+biochemistry	psychology	75	29
+biochemistry	sociology	32	14
+biochemistry	spanish literature	0	0
+biochemistry	statistics	237	26
+chemistry	anthropology	14	36
+chemistry	archaeology	29	8
+chemistry	art history	0	2
+chemistry	astronomy	6	1
+chemistry	biochemistry	24	30
+chemistry	chemistry	7	14
+chemistry	classics	7	7
+chemistry	communications	70	24
+chemistry	comparative literature	5	0
+chemistry	computer science	5	9
+chemistry	earth sciences	143	91
+chemistry	economics	28	10
+chemistry	education	14	19
+chemistry	engineering	2	6
+chemistry	english literature	14	58
+chemistry	evolutionary biology	143	119
+chemistry	history	1	0
+chemistry	linguistics	136	47
+chemistry	mathematics	16	43
+chemistry	middle eastern studies	19	8
+chemistry	molecular biology	100	118
+chemistry	music	184	299
+chemistry	neuroscience	5	42
+chemistry	philosophy	15	22
+chemistry	physics	2	3
+chemistry	political science	8	2
+chemistry	psychology	9	9
+chemistry	sociology	11	2
+chemistry	spanish literature	16	2
+chemistry	statistics	7	6
+classics	anthropology	0	51
+classics	archaeology	23	60
+classics	art history	9	5
+classics	astronomy	79	650
+classics	biochemistry	24	20
+classics	chemistry	4	0
+classics	classics	9	12
+classics	communications	64	94
+classics	comparative literature	6	17
+classics	computer science	26	19
+classics	earth sciences	31	11
+classics	economics	76	6
+classics	education	208	291
+classics	engineering	32	32
+classics	english literature	2	9
+classics	evolutionary biology	44	19
+classics	history	58	8
+classics	linguistics	113	86
+classics	mathematics	0	0
+classics	middle eastern studies	8	4
+classics	molecular biology	40	68
+classics	music	94	26
+classics	neuroscience	17	5
+classics	philosophy	48	8
+classics	physics	46	40
+classics	political science	32	43
+classics	psychology	3	2
+classics	sociology	0	1
+classics	spanish literature	14	1
+classics	statistics	20	7
+communications	anthropology	1	36
+communications	archaeology	2	53
+communications	art history	1	48
+communications	astronomy	37	521
+communications	biochemistry	14	176
+communications	chemistry	2	3
+communications	classics	0	3
+communications	communications	12	41
+communications	comparative literature	3	49
+communications	computer science	1	25
+communications	earth sciences	1	6
+communications	economics	40	55
+communications	education	27	717
+communications	engineering	217	479
+communications	english literature	41	237
+communications	evolutionary biology	23	107
+communications	history	11	19
+communications	linguistics	9	46
+communications	mathematics	0	4
+communications	middle eastern studies	1	2
+communications	molecular biology	0	24
+communications	music	22	31
+communications	neuroscience	17	64
+communications	philosophy	0	4
+communications	physics	0	1
+communications	political science	47	139
+communications	psychology	8	6
+communications	sociology	24	193
+communications	spanish literature	13	89
+communications	statistics	1	3
+comparative literature	anthropology	2	0
+comparative literature	archaeology	24	20
+comparative literature	art history	51	6
+comparative literature	astronomy	0	0
+comparative literature	biochemistry	160	18
+comparative literature	chemistry	114	31
+comparative literature	classics	10	5
+comparative literature	communications	10	1
+comparative literature	comparative literature	95	63
+comparative literature	computer science	3	0
+comparative literature	earth sciences	10	7
+comparative literature	economics	33	3
+comparative literature	education	21	5
+comparative literature	engineering	2	0
+comparative literature	english literature	160	11
+comparative literature	evolutionary biology	182	24
+comparative literature	history	20	4
+comparative literature	linguistics	33	0
+comparative literature	mathematics	28	6
+comparative literature	middle eastern studies	44	2
+comparative literature	molecular biology	208	8
+comparative literature	music	25	6
+comparative literature	neuroscience	3	4
+comparative literature	philosophy	26	16
+comparative literature	physics	0	1
+comparative literature	political science	1	0
+comparative literature	psychology	5	1
+comparative literature	sociology	76	13
+comparative literature	spanish literature	111	29
+comparative literature	statistics	501	32
+computer science	anthropology	104	95
+computer science	archaeology	1	0
+computer science	art history	267	18
+computer science	astronomy	43	3
+computer science	biochemistry	57	33
+computer science	chemistry	0	0
+computer science	classics	7	3
+computer science	communications	36	1
+computer science	comparative literature	5	3
+computer science	computer science	41	15
+computer science	earth sciences	4	1
+computer science	economics	6	2
+computer science	education	54	61
+computer science	engineering	55	7
+computer science	english literature	35	139
+computer science	evolutionary biology	41	9
+computer science	history	153	45
+computer science	linguistics	223	19
+computer science	mathematics	162	14
+computer science	middle eastern studies	57	8
+computer science	molecular biology	34	2
+computer science	music	4	0
+computer science	neuroscience	256	44
+computer science	philosophy	83	59
+computer science	physics	156	20
+computer science	political science	18	5
+computer science	psychology	41	25
+computer science	sociology	423	120
+computer science	spanish literature	17	0
+computer science	statistics	12	0
+earth sciences	anthropology	23	7
+earth sciences	archaeology	104	62
+earth sciences	art history	71	63
+earth sciences	astronomy	9	3
+earth sciences	biochemistry	45	87
+earth sciences	chemistry	22	21
+earth sciences	classics	3	5
+earth sciences	communications	129	14
+earth sciences	comparative literature	55	171
+earth sciences	computer science	17	27
+earth sciences	earth sciences	113	47
+earth sciences	economics	96	14
+earth sciences	education	10	15
+earth sciences	engineering	26	27
+earth sciences	english literature	63	124
+earth sciences	evolutionary biology	0	2
+earth sciences	history	127	61
+earth sciences	linguistics	160	30
+earth sciences	mathematics	204	79
+earth sciences	middle eastern studies	0	1
+earth sciences	molecular biology	27	13
+earth sciences	music	1	0
+earth sciences	neuroscience	5	26
+earth sciences	philosophy	18	27
+earth sciences	physics	39	135
+earth sciences	political science	17	2
+earth sciences	psychology	15	3
+earth sciences	sociology	5	2
+earth sciences	spanish literature	3	4
+earth sciences	statistics	130	32
+economics	anthropology	7	40
+economics	archaeology	5	1
+economics	art history	30	55
+economics	astronomy	82	211
+economics	biochemistry	7	3
+economics	chemistry	25	158
+economics	classics	47	16
+economics	communications	46	5
+economics	comparative literature	3	6
+economics	computer science	27	43
+economics	earth sciences	46	24
+economics	economics	265	13
+economics	education	32	30
+economics	engineering	130	4
+economics	english literature	38	52
+economics	evolutionary biology	7	1
+economics	history	17	2
+economics	linguistics	4	0
+economics	mathematics	34	7
+economics	middle eastern studies	45	13
+economics	molecular biology	31	57
+economics	music	39	3
+economics	neuroscience	0	3
+economics	philosophy	21	19
+economics	physics	36	17
+economics	political science	43	29
+economics	psychology	10	7
+economics	sociology	44	36
+economics	spanish literature	106	53
+economics	statistics	416	16
+education	anthropology	25	156
+education	archaeology	2	7
+education	art history	12	0
+education	astronomy	8	0
+education	biochemistry	5	3
+education	chemistry	17	3
+education	classics	15	3
+education	communications	336	143
+education	comparative literature	1	6
+education	computer science	9	47
+education	earth sciences	0	0
+education	economics	7	1
+education	education	6	7
+education	engineering	95	44
+education	english literature	19	40
+education	evolutionary biology	130	13
+education	history	6	0
+education	linguistics	122	36
+education	mathematics	27	32
+education	middle eastern studies	1	4
+education	molecular biology	5	1
+education	music	59	196
+education	neuroscience	2	0
+education	philosophy	1	18
+education	physics	85	37
+education	political science	53	135
+education	psychology	67	4
+education	sociology	47	20
+education	spanish literature	10	1
+education	statistics	10	6
+engineering	anthropology	18	56
+engineering	archaeology	118	340
+engineering	art history	22	7
+engineering	astronomy	7	13
+engineering	biochemistry	3	20
+engineering	chemistry	6	0
+engineering	classics	8	8
+engineering	communications	235	48
+engineering	comparative literature	76	73
+engineering	computer science	39	36
+engineering	earth sciences	0	4
+engineering	economics	11	5
+engineering	education	63	49
+engineering	engineering	2	1
+engineering	english literature	6	13
+engineering	evolutionary biology	16	7
+engineering	history	84	27
+engineering	linguistics	3	0
+engineering	mathematics	112	73
+engineering	middle eastern studies	49	14
+engineering	molecular biology	10	7
+engineering	music	20	36
+engineering	neuroscience	89	51
+engineering	philosophy	20	40
+engineering	physics	124	292
+engineering	political science	1	0
+engineering	psychology	32	10
+engineering	sociology	87	11
+engineering	spanish literature	12	11
+engineering	statistics	338	51
+english literature	anthropology	13	39
+english literature	archaeology	77	18
+english literature	art history	30	12
+english literature	astronomy	2	13
+english literature	biochemistry	19	50
+english literature	chemistry	23	8
+english literature	classics	69	98
+english literature	communications	93	29
+english literature	comparative literature	2	7
+english literature	computer science	20	104
+english literature	earth sciences	78	86
+english literature	economics	0	0
+english literature	education	61	76
+english literature	engineering	7	17
+english literature	english literature	13	81
+english literature	evolutionary biology	478	63
+english literature	history	17	12
+english literature	linguistics	127	187
+english literature	mathematics	5	17
+english literature	middle eastern studies	58	91
+english literature	molecular biology	15	32
+english literature	music	6	3
+english literature	neuroscience	560	279
+english literature	philosophy	0	9
+english literature	physics	21	15
+english literature	political science	3	19
+english literature	psychology	6	3
+english literature	sociology	28	1
+english literature	spanish literature	5	26
+english literature	statistics	45	46
+evolutionary biology	anthropology	0	9
+evolutionary biology	archaeology	80	51
+evolutionary biology	art history	128	65
+evolutionary biology	astronomy	52	147
+evolutionary biology	biochemistry	11	120
+evolutionary biology	chemistry	8	8
+evolutionary biology	classics	7	11
+evolutionary biology	communications	6	14
+evolutionary biology	comparative literature	15	68
+evolutionary biology	computer science	107	145
+evolutionary biology	earth sciences	51	162
+evolutionary biology	economics	88	24
+evolutionary biology	education	88	66
+evolutionary biology	engineering	3	0
+evolutionary biology	english literature	5	73
+evolutionary biology	evolutionary biology	90	6
+evolutionary biology	history	259	36
+evolutionary biology	linguistics	78	171
+evolutionary biology	mathematics	0	0
+evolutionary biology	middle eastern studies	13	3
+evolutionary biology	molecular biology	261	299
+evolutionary biology	music	1	1
+evolutionary biology	neuroscience	3	22
+evolutionary biology	philosophy	1	4
+evolutionary biology	physics	39	51
+evolutionary biology	political science	4	26
+evolutionary biology	psychology	19	12
+evolutionary biology	sociology	4	25
+evolutionary biology	spanish literature	15	1
+evolutionary biology	statistics	40	36
+history	anthropology	5	81
+history	archaeology	39	52
+history	art history	73	272
+history	astronomy	2	2
+history	biochemistry	12	12
+history	chemistry	22	1
+history	classics	76	43
+history	communications	6	14
+history	comparative literature	35	77
+history	computer science	18	89
+history	earth sciences	40	280
+history	economics	20	13
+history	education	61	16
+history	engineering	87	10
+history	english literature	0	11
+history	evolutionary biology	10	10
+history	history	14	3
+history	linguistics	52	50
+history	mathematics	28	60
+history	middle eastern studies	121	89
+history	molecular biology	2	8
+history	music	5	14
+history	neuroscience	7	5
+history	philosophy	24	81
+history	physics	20	9
+history	political science	17	48
+history	psychology	59	41
+history	sociology	108	70
+history	spanish literature	27	9
+history	statistics	342	399
+linguistics	anthropology	5	23
+linguistics	archaeology	34	120
+linguistics	art history	2	30
+linguistics	astronomy	8	29
+linguistics	biochemistry	59	95
+linguistics	chemistry	45	46
+linguistics	classics	6	309
+linguistics	communications	25	21
+linguistics	comparative literature	47	336
+linguistics	computer science	19	49
+linguistics	earth sciences	2	19
+linguistics	economics	11	1
+linguistics	education	15	56
+linguistics	engineering	35	24
+linguistics	english literature	12	46
+linguistics	evolutionary biology	7	7
+linguistics	history	127	49
+linguistics	linguistics	17	16
+linguistics	mathematics	10	56
+linguistics	middle eastern studies	7	22
+linguistics	molecular biology	11	65
+linguistics	music	124	64
+linguistics	neuroscience	0	6
+linguistics	philosophy	22	109
+linguistics	physics	9	30
+linguistics	political science	7	24
+linguistics	psychology	161	32
+linguistics	sociology	15	45
+linguistics	spanish literature	4	0
+linguistics	statistics	2	29
+mathematics	anthropology	2	3
+mathematics	archaeology	110	81
+mathematics	art history	52	119
+mathematics	astronomy	3	10
+mathematics	biochemistry	5	63
+mathematics	chemistry	169	10
+mathematics	classics	35	235
+mathematics	communications	1	5
+mathematics	comparative literature	2	5
+mathematics	computer science	35	83
+mathematics	earth sciences	54	472
+mathematics	economics	6	3
+mathematics	education	18	28
+mathematics	engineering	45	9
+mathematics	english literature	24	49
+mathematics	evolutionary biology	21	1
+mathematics	history	52	58
+mathematics	linguistics	152	22
+mathematics	mathematics	69	235
+mathematics	middle eastern studies	133	31
+mathematics	molecular biology	0	0
+mathematics	music	0	1
+mathematics	neuroscience	84	33
+mathematics	philosophy	278	213
+mathematics	physics	1	11
+mathematics	political science	4	2
+mathematics	psychology	0	0
+mathematics	sociology	39	9
+mathematics	spanish literature	42	45
+mathematics	statistics	201	120
+middle eastern studies	anthropology	7	69
+middle eastern studies	archaeology	12	5
+middle eastern studies	art history	83	42
+middle eastern studies	astronomy	8	42
+middle eastern studies	biochemistry	14	274
+middle eastern studies	chemistry	0	1
+middle eastern studies	classics	186	168
+middle eastern studies	communications	41	8
+middle eastern studies	comparative literature	10	75
+middle eastern studies	computer science	34	283
+middle eastern studies	earth sciences	10	30
+middle eastern studies	economics	279	83
+middle eastern studies	education	1	41
+middle eastern studies	engineering	5	16
+middle eastern studies	english literature	3	16
+middle eastern studies	evolutionary biology	4	14
+middle eastern studies	history	58	39
+middle eastern studies	linguistics	14	7
+middle eastern studies	mathematics	26	66
+middle eastern studies	middle eastern studies	2	2
+middle eastern studies	molecular biology	52	49
+middle eastern studies	music	34	138
+middle eastern studies	neuroscience	47	37
+middle eastern studies	philosophy	41	111
+middle eastern studies	physics	16	154
+middle eastern studies	political science	27	37
+middle eastern studies	psychology	116	31
+middle eastern studies	sociology	3	7
+middle eastern studies	spanish literature	23	29
+middle eastern studies	statistics	18	4
+molecular biology	anthropology	0	1
+molecular biology	archaeology	7	74
+molecular biology	art history	27	114
+molecular biology	astronomy	13	59
+molecular biology	biochemistry	0	9
+molecular biology	chemistry	6	5
+molecular biology	classics	7	29
+molecular biology	communications	10	17
+molecular biology	comparative literature	7	31
+molecular biology	computer science	1	16
+molecular biology	earth sciences	14	23
+molecular biology	economics	0	3
+molecular biology	education	10	108
+molecular biology	engineering	0	3
+molecular biology	english literature	14	35
+molecular biology	evolutionary biology	8	13
+molecular biology	history	36	92
+molecular biology	linguistics	3	4
+molecular biology	mathematics	2	8
+molecular biology	middle eastern studies	1	7
+molecular biology	molecular biology	42	319
+molecular biology	music	8	140
+molecular biology	neuroscience	4	128
+molecular biology	philosophy	9	281
+molecular biology	physics	5	14
+molecular biology	political science	1	31
+molecular biology	psychology	7	26
+molecular biology	sociology	3	36
+molecular biology	spanish literature	10	23
+molecular biology	statistics	0	13
+music	anthropology	4	18
+music	archaeology	3	50
+music	art history	75	54
+music	astronomy	12	45
+music	biochemistry	4	9
+music	chemistry	42	124
+music	classics	31	92
+music	communications	289	14
+music	comparative literature	1	18
+music	computer science	1	33
+music	earth sciences	17	144
+music	economics	34	15
+music	education	11	65
+music	engineering	41	20
+music	english literature	36	47
+music	evolutionary biology	18	4
+music	history	18	52
+music	linguistics	3	12
+music	mathematics	32	112
+music	middle eastern studies	192	147
+music	molecular biology	11	7
+music	music	5	8
+music	neuroscience	2	0
+music	philosophy	6	17
+music	physics	8	45
+music	political science	34	165
+music	psychology	185	28
+music	sociology	5	14
+music	spanish literature	14	4
+music	statistics	16	3
+neuroscience	anthropology	124	37
+neuroscience	archaeology	1	5
+neuroscience	art history	169	248
+neuroscience	astronomy	27	40
+neuroscience	biochemistry	2	130
+neuroscience	chemistry	1	0
+neuroscience	classics	0	0
+neuroscience	communications	405	28
+neuroscience	comparative literature	7	131
+neuroscience	computer science	0	12
+neuroscience	earth sciences	0	13
+neuroscience	economics	29	18
+neuroscience	education	5	71
+neuroscience	engineering	2	19
+neuroscience	english literature	3	24
+neuroscience	evolutionary biology	2	11
+neuroscience	history	31	5
+neuroscience	linguistics	1	6
+neuroscience	mathematics	1	9
+neuroscience	middle eastern studies	18	84
+neuroscience	molecular biology	30	58
+neuroscience	music	8	117
+neuroscience	neuroscience	1	8
+neuroscience	philosophy	1	6
+neuroscience	physics	20	210
+neuroscience	political science	6	13
+neuroscience	psychology	61	30
+neuroscience	sociology	0	1
+neuroscience	spanish literature	28	265
+neuroscience	statistics	48	63
+philosophy	anthropology	127	10
+philosophy	archaeology	82	13
+philosophy	art history	3	3
+philosophy	astronomy	37	8
+philosophy	biochemistry	57	5
+philosophy	chemistry	186	2
+philosophy	classics	58	10
+philosophy	communications	28	0
+philosophy	comparative literature	23	2
+philosophy	computer science	10	0
+philosophy	earth sciences	2	0
+philosophy	economics	62	4
+philosophy	education	155	88
+philosophy	engineering	67	5
+philosophy	english literature	7	2
+philosophy	evolutionary biology	4	0
+philosophy	history	74	2
+philosophy	linguistics	11	1
+philosophy	mathematics	35	6
+philosophy	middle eastern studies	64	10
+philosophy	molecular biology	16	0
+philosophy	music	24	1
+philosophy	neuroscience	172	12
+philosophy	philosophy	43	3
+philosophy	physics	60	6
+philosophy	political science	153	9
+philosophy	psychology	159	15
+philosophy	sociology	34	0
+philosophy	spanish literature	126	4
+philosophy	statistics	80	0
+physics	anthropology	102	98
+physics	archaeology	50	13
+physics	art history	24	17
+physics	astronomy	57	37
+physics	biochemistry	20	7
+physics	chemistry	22	8
+physics	classics	5	3
+physics	communications	231	77
+physics	comparative literature	66	90
+physics	computer science	10	40
+physics	earth sciences	28	31
+physics	economics	86	5
+physics	education	1	0
+physics	engineering	76	4
+physics	english literature	2	4
+physics	evolutionary biology	36	60
+physics	history	82	24
+physics	linguistics	34	7
+physics	mathematics	17	3
+physics	middle eastern studies	31	9
+physics	molecular biology	19	6
+physics	music	144	57
+physics	neuroscience	175	57
+physics	philosophy	413	125
+physics	physics	30	81
+physics	political science	115	27
+physics	psychology	52	15
+physics	sociology	1	0
+physics	spanish literature	294	185
+physics	statistics	1	0
+political science	anthropology	15	8
+political science	archaeology	10	3
+political science	art history	9	3
+political science	astronomy	1	0
+political science	biochemistry	22	57
+political science	chemistry	80	18
+political science	classics	44	8
+political science	communications	5	0
+political science	comparative literature	54	84
+political science	computer science	47	127
+political science	earth sciences	38	3
+political science	economics	64	1
+political science	education	33	66
+political science	engineering	114	44
+political science	english literature	88	88
+political science	evolutionary biology	97	12
+political science	history	78	17
+political science	linguistics	34	1
+political science	mathematics	1	3
+political science	middle eastern studies	15	19
+political science	molecular biology	22	3
+political science	music	11	3
+political science	neuroscience	11	1
+political science	philosophy	185	29
+political science	physics	80	39
+political science	political science	113	4
+political science	psychology	5	2
+political science	sociology	204	17
+political science	spanish literature	946	13
+political science	statistics	223	13
+psychology	anthropology	0	7
+psychology	archaeology	4	92
+psychology	art history	3	87
+psychology	astronomy	1	50
+psychology	biochemistry	2	71
+psychology	chemistry	9	33
+psychology	classics	1	5
+psychology	communications	0	4
+psychology	comparative literature	0	3
+psychology	computer science	2	11
+psychology	earth sciences	0	2
+psychology	economics	9	18
+psychology	education	0	182
+psychology	engineering	4	64
+psychology	english literature	4	69
+psychology	evolutionary biology	2	6
+psychology	history	22	65
+psychology	linguistics	27	179
+psychology	mathematics	97	472
+psychology	middle eastern studies	2	32
+psychology	molecular biology	0	9
+psychology	music	0	27
+psychology	neuroscience	4	69
+psychology	philosophy	3	13
+psychology	physics	10	69
+psychology	political science	1	3
+psychology	psychology	26	171
+psychology	sociology	11	101
+psychology	spanish literature	9	81
+psychology	statistics	1	6
+sociology	anthropology	0	3
+sociology	archaeology	8	41
+sociology	art history	0	3
+sociology	astronomy	8	66
+sociology	biochemistry	0	68
+sociology	chemistry	0	2
+sociology	classics	0	17
+sociology	communications	92	185
+sociology	comparative literature	1	35
+sociology	computer science	0	6
+sociology	earth sciences	40	261
+sociology	economics	114	161
+sociology	education	2	50
+sociology	engineering	5	22
+sociology	english literature	14	188
+sociology	evolutionary biology	7	19
+sociology	history	118	175
+sociology	linguistics	61	178
+sociology	mathematics	1	16
+sociology	middle eastern studies	22	202
+sociology	molecular biology	141	31
+sociology	music	33	65
+sociology	neuroscience	33	131
+sociology	philosophy	0	11
+sociology	physics	9	245
+sociology	political science	0	2
+sociology	psychology	12	15
+sociology	sociology	29	197
+sociology	spanish literature	4	6
+sociology	statistics	8	22
+spanish literature	anthropology	36	23
+spanish literature	archaeology	13	32
+spanish literature	art history	6	9
+spanish literature	astronomy	4	1
+spanish literature	biochemistry	5	59
+spanish literature	chemistry	10	58
+spanish literature	classics	63	254
+spanish literature	communications	0	0
+spanish literature	comparative literature	24	148
+spanish literature	computer science	23	81
+spanish literature	earth sciences	174	32
+spanish literature	economics	13	19
+spanish literature	education	1	10
+spanish literature	engineering	43	17
+spanish literature	english literature	3	3
+spanish literature	evolutionary biology	3	3
+spanish literature	history	65	102
+spanish literature	linguistics	38	38
+spanish literature	mathematics	143	344
+spanish literature	middle eastern studies	24	69
+spanish literature	molecular biology	12	34
+spanish literature	music	35	47
+spanish literature	neuroscience	7	2
+spanish literature	philosophy	10	47
+spanish literature	physics	26	29
+spanish literature	political science	14	121
+spanish literature	psychology	16	86
+spanish literature	sociology	15	54
+spanish literature	spanish literature	21	5
+spanish literature	statistics	12	19
+statistics	anthropology	32	236
+statistics	archaeology	42	10
+statistics	art history	37	11
+statistics	astronomy	23	17
+statistics	biochemistry	79	113
+statistics	chemistry	42	40
+statistics	classics	3	15
+statistics	communications	76	22
+statistics	comparative literature	0	1
+statistics	computer science	96	183
+statistics	earth sciences	57	100
+statistics	economics	3	0
+statistics	education	12	290
+statistics	engineering	0	0
+statistics	english literature	0	1
+statistics	evolutionary biology	83	83
+statistics	history	40	39
+statistics	linguistics	100	40
+statistics	mathematics	14	25
+statistics	middle eastern studies	141	204
+statistics	molecular biology	21	18
+statistics	music	14	54
+statistics	neuroscience	12	30
+statistics	philosophy	5	11
+statistics	physics	3	7
+statistics	political science	0	13
+statistics	psychology	1	1
+statistics	sociology	5	7
+statistics	spanish literature	14	6
+statistics	statistics	39	11
